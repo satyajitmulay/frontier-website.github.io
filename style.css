@@ -299,13 +299,6 @@ p{
 
 }
 
-@media only screen and (min-width: 850px) and (max-width: 1080px) {
-    .content-col h1 {
-        font-size: 3vmin;
-    }
-}
-
-
 
 img {
     transition: transform .3s ease;
